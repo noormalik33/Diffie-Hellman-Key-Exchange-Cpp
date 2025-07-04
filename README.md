@@ -26,7 +26,8 @@ A console-based C++ implementation of the **Diffie-Hellman Key Exchange Algorith
 ### 📄 1. Clone the Repository
 
 https://github.com/noormalik33/Diffie-Hellman-Key-Exchange-Cpp.git
-cd Diffie-Helman-Key-Exchange-Cpp
+
+
 ⚙️ 2. Compile and Run in Dev C++
 
 
